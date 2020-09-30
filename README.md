@@ -1,1 +1,1 @@
-# Paralelni-ra-unarski-sistemi
+# Paralelni-racunarski-sistemi
